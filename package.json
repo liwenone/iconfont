@@ -18,9 +18,8 @@
     "svg2ttf": "^4.3.0",
     "svgpath": "^2.2.2",
     "ttf2svg": "0.0.7",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.6.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/liwenone/iconfont.git"
