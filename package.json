@@ -1,6 +1,6 @@
 {
   "name": "@liwenone/iconfont",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "iconfont",
   "main": "./index.js",
   "scripts": {
@@ -15,9 +15,9 @@
     "lodash": "^4.17.15",
     "multiline": "^2.0.0",
     "opentype.js": "^1.1.0",
-    "svg2ttf": "^4.3.0",
+    "svg2ttf": "^6.0.3",
     "svgpath": "^2.2.2",
-    "ttf2svg": "0.0.7",
+    "ttf2svg": "^1.2.0",
     "xmldom": "^0.6.0"
   },
   "repository": {
