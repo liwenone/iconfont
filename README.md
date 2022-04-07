@@ -27,8 +27,8 @@ iconfont
 ```
 
 3. 在package.json中，添加构建命令
-``` bash
+``` json
 "script": {
-  "iconfont": iconfont --config ./iconfont/config.json
+  "iconfont": "iconfont --config ./iconfont/config.json"
 }
 ```
